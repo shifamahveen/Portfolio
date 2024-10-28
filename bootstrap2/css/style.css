@@ -1,0 +1,11 @@
+.bg-purple {
+    background-image: linear-gradient(#1b1940, #4c488a);
+}
+
+.bg-btn {
+    background-color: #573a8a;
+}
+
+.text-purple {
+    color: #573a8a;
+}
